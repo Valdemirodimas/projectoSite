@@ -74,7 +74,7 @@ export default function Declaration() {
           className="mt-16 relative"
         >
           <div className="text-8xl md:text-9xl text-pink-vibrant/20 font-serif absolute -top-8 left-1/2 transform -translate-x-1/2">
-            "
+            &ldquo;
           </div>
           <p className="text-xl md:text-2xl text-white-soft/60 italic relative z-10 pt-12">
             Cada momento contigo é uma página do nosso livro de amor
