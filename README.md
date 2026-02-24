@@ -1,7 +1,5 @@
 # Website - Dia dos Namorados
 
-Um website premium e emocionalmente impactante criado com Next.js 14+, React, TypeScript, Tailwind CSS, Framer Motion e Three.js.
-
 ## Tecnologias Utilizadas
 
 - **Next.js 14+** - Framework React com App Router
