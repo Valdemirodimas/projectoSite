@@ -14,6 +14,4 @@
 
 ## Deploy
 
-- Feito no Vercel
-
-**Feito com amor infinito** 💖
+- Feito no Vercel 
